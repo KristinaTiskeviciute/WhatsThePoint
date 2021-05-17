@@ -1,2 +1,3 @@
 # WhatsThePoint
-Ronday Test Interactive Demo created in Unity for WhatsThePoint
+
+Interactive Demo created in Unity for WhatsThePoint
